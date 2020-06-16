@@ -1,5 +1,5 @@
 - Create a new branch: `git checkout -b new-branch`
-- Create a directory
+- Goto contributors directory
 - Create a file named "your-username.md"
 - Add your details like Name, Username, City, College, etc
 - Add the channges to staging: `git add .`
