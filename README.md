@@ -1,1 +1,8 @@
-
+- Create a new branch: `git checkout -b new-branch`
+- Create a directory
+- Create a file named "your-username.md"
+- Add your details like Name, Username, City, College, etc
+- Add the channges to staging: `git add .`
+- Commit changes: `git commit -m "message"`
+- Push code to remote: `git push origin new-branch`
+- Create PR
